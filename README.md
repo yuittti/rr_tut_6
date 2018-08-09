@@ -1,0 +1,1 @@
+Polls app based on React and Redux (developed during the Redux course by Tyler McGinnis)
